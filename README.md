@@ -11,18 +11,15 @@ Este é um projeto simples que utiliza HTML, CSS e JavaScript para criar uma apl
 2. **CSS:** O estilo da aplicação é definido no arquivo `styles.css`. Personalize o design conforme necessário para se adequar ao seu gosto ou ao tema do seu projeto.
 
 3. **JavaScript:** A lógica de consumo da API e a manipulação dos dados estão no arquivo `script.js`. Certifique-se de entender como os dados da API são tratados e como as atualizações na interface do usuário são realizadas.
+
 ## Configuração
 
 Antes de executar o projeto, obtenha uma chave de API válida do [OMDB API](https://www.omdbapi.com/apikey.aspx). Substitua `SUA_CHAVE_API_OMDB` no arquivo `key.js` pela sua chave real.
 
 ```javascript
 key = "SUA_CHAVE_API_OMDB"
-## Configuração
+```
 
-Antes de executar o projeto, obtenha uma chave de API válida do [OMDB API](https://www.omdbapi.com/apikey.aspx). Substitua `SUA_CHAVE_API_OMDB` no arquivo `key.js` pela sua chave real.
-
-```javascript
-key = "SUA_CHAVE_API_OMDB"
 ## Executando o Projeto
 
 Abra o arquivo index.html em seu navegador favorito para visualizar a aplicação. Certifique-se de ter uma conexão com a internet, pois a aplicação consome dados da API OMDB em tempo real.
